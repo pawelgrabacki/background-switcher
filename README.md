@@ -1,5 +1,5 @@
 # Background Switcher
- 
+ ![Background Switcher dialog](docs/Background_Switcher.gif)
 A proof-of-concept MAXScript for 3ds Max. It adds a dialog with buttons 1–9 that jump the viewport to a camera and show the matching reference photo behind the model. **Gray** hides the photo.
  
 ## Requirements
